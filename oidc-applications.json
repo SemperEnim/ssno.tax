@@ -542,6 +542,15 @@
       "documentation_url": "https://help.penpot.app/technical-guide/configuration/#authentication-providers"
     },
     {
+      "name": "Komodo",
+      "category": "Container management",
+      "project_url": "https://komo.do",
+      "github_url": "https://github.com/moghtech/komodo",
+      "license": "GPL 3",
+      "description": "A build and deployment system managing unlimited hosts based on Docker Compose and optionally Swarm with built-in OAuth2 authentication that works with any OIDC provider.",
+      "documentation_url": "https://komo.do/docs/setup/advanced#oidc--oauth2"
+    },
+    {
       "name": "Portainer CE",
       "category": "Container management",
       "project_url": "https://www.portainer.io/",
@@ -902,6 +911,15 @@
       "license": "LGPL-3.0",
       "description": "The default room-management front end for self-hosted BigBlueButton servers offers external authentication through OpenID Connect or Keycloak.",
       "documentation_url": "https://docs.bigbluebutton.org/greenlight/v3/external-authentication/"
+    },
+    {
+      "name": "OpenTalk",
+      "category": "Video conferencing",
+      "project_url": "https://opentalk.eu/en",
+      "github_url": "https://git.opentalk.dev/opentalk",
+      "license": "EUPL-1.2",
+      "description": "Secure, GDPR-compliant video conferencing system that contains a built-in Keycloak which can be federated with any other OIDC system.",
+      "documentation_url": "https://docs.opentalk.eu/26.1/admin/deployment/opentalk-compose/2-access-web-interfaces/#21-keycloak-admin-console"
     },
     {
       "name": "Nautobot",
