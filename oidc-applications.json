@@ -913,6 +913,15 @@
       "documentation_url": "https://docs.bigbluebutton.org/greenlight/v3/external-authentication/"
     },
     {
+      "name": "OpenTalk",
+      "category": "Video conferencing",
+      "project_url": "https://opentalk.eu/en",
+      "github_url": "https://git.opentalk.dev/opentalk",
+      "license": "EUPL-1.2",
+      "description": "Secure, GDPR-compliant video conferencing system that contains a built-in Keycloak which can be federated with any other OIDC system.",
+      "documentation_url": "https://docs.opentalk.eu/26.1/admin/deployment/opentalk-compose/2-access-web-interfaces/#21-keycloak-admin-console"
+    },
+    {
       "name": "Nautobot",
       "category": "Virtualization & infrastructure",
       "project_url": "https://nautobot.com/",
