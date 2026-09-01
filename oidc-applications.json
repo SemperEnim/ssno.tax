@@ -1030,6 +1030,37 @@
       "license": "Apache-2.0",
       "description": "An open-source bastion and access gateway for SSH, HTTPS, Kubernetes, databases, RDP, and VNC with built-in OpenID Connect SSO, role-based access control, and session auditing.",
       "documentation_url": "https://warpgate.null.page/sso/"
+    },
+    {
+      "name": "BookOrbit",
+      "category": "Book library management",
+      "project_url": "https://bookorbit.app",
+      "github_url": "https://github.com/bookorbit/bookorbit",
+      "logo_url": "https://bookorbit.app/favicon.svg",
+      "license": "AGPL-3.0",
+      "description": "A self-hosted library and reading platform for ebooks, PDFs, audiobooks, and comics with built-in OpenID Connect login that works with any provider, including Keycloak, Authentik, Authelia, and Pocket ID.",
+      "documentation_url": "https://bookorbit.app/oidc"
+    },
+    {
+      "name": "ownCloud Classic",
+      "category": "File sync & collaboration",
+      "oidc_status": "extension",
+      "project_url": "https://github.com/owncloud/core",
+      "github_url": "https://github.com/owncloud/openidconnect",
+      "logo_url": "https://cdn.simpleicons.org/owncloud",
+      "license": "AGPL-3.0",
+      "description": "The classic PHP-based ownCloud Server file sync and sharing platform, which gains OpenID Connect login through its free and open-source openidconnect app for any external identity provider.",
+      "documentation_url": "https://doc.owncloud.com/server/latest/admin_manual/configuration/user/oidc/oidc.html"
+    },
+    {
+      "name": "Technitium DNS Server",
+      "category": "DNS & networking",
+      "project_url": "https://technitium.com/dns/",
+      "github_url": "https://github.com/TechnitiumSoftware/DnsServer",
+      "logo_url": "https://technitium.com/img/logo.png",
+      "license": "GPL-3.0",
+      "description": "A self-hosted authoritative and recursive DNS server with ad and malware blocking whose web console supports Single Sign-On login through OpenID Connect providers, with group-to-role mapping. Configured via the Administration > SSO tab or DNS_SERVER_SSO_* environment variables.",
+      "documentation_url": "https://github.com/TechnitiumSoftware/DnsServer/blob/master/DockerEnvironmentVariables.md"
     }
   ]
 }
