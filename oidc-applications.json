@@ -542,6 +542,15 @@
       "documentation_url": "https://help.penpot.app/technical-guide/configuration/#authentication-providers"
     },
     {
+      "name": "Komodo",
+      "category": "Container management",
+      "project_url": "https://komo.do",
+      "github_url": "https://github.com/moghtech/komodo",
+      "license": "GPL 3",
+      "description": "A build and deployment system managing unlimited hosts based on Docker Compose and optionally Swarm with built-in OAuth2 authentication that works with any OIDC provider.",
+      "documentation_url": "https://komo.do/docs/setup/advanced#oidc--oauth2"
+    },
+    {
       "name": "Portainer CE",
       "category": "Container management",
       "project_url": "https://www.portainer.io/",
