@@ -1089,6 +1089,36 @@
       "license": "GPL-3.0",
       "description": "A self-hosted authoritative and recursive DNS server with ad and malware blocking whose web console supports Single Sign-On login through OpenID Connect providers, with group-to-role mapping. Configured via the Administration > SSO tab or DNS_SERVER_SSO_* environment variables.",
       "documentation_url": "https://github.com/TechnitiumSoftware/DnsServer/blob/master/DockerEnvironmentVariables.md"
+    },
+    {
+      "name": "Budget Board",
+      "category": "Personal finance & household management",
+      "project_url": "https://budgetboard.net/",
+      "github_url": "https://github.com/teelur/budget-board",
+      "logo_url": "https://raw.githubusercontent.com/teelur/budget-board/main/img/logo.svg",
+      "license": "AGPL-3.0",
+      "description": "A self-hosted personal finance app for tracking budgets, goals, and transactions (a Mint alternative) that can authenticate users through an external OpenID Connect identity provider instead of local accounts.",
+      "documentation_url": "https://budgetboard.net/docs/deploy/configuration/oidc-authentication"
+    },
+    {
+      "name": "Kavita",
+      "category": "Book library management",
+      "project_url": "https://www.kavitareader.com/",
+      "github_url": "https://github.com/Kareadita/Kavita",
+      "logo_url": "https://raw.githubusercontent.com/Kareadita/Wiki-Nextra/main/public/favicon.ico",
+      "license": "GPL-3.0",
+      "description": "A self-hosted digital library for ebooks, comics, and manga with built-in OpenID Connect login, including automatic account creation and optional role sync for library access and age restrictions.",
+      "documentation_url": "https://wiki.kavitareader.com/guides/admin-settings/open-id-connect/"
+    },
+    {
+      "name": "LANCommander",
+      "category": "Game library management",
+      "project_url": "https://lancommander.app",
+      "github_url": "https://github.com/LANCommander/LANCommander",
+      "logo_url": "https://docs.lancommander.app/img/logo.svg",
+      "license": "MIT",
+      "description": "A self-hosted game distribution platform for LAN parties and private networks whose server can delegate sign-in to external OpenID Connect (or OAuth2) identity providers alongside its built-in local accounts.",
+      "documentation_url": "https://docs.lancommander.app/Server/Settings/Authentication/Overview"
     }
   ]
 }
