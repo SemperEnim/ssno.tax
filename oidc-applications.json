@@ -800,6 +800,16 @@
       "documentation_url": "https://stonith404.github.io/pingvin-share/setup/oauth2login"
     },
     {
+      "name": "Erugo",
+      "category": "File sharing",
+      "project_url": "https://erugo.app/",
+      "github_url": "https://github.com/ErugoOSS/Erugo",
+      "logo_url": "https://raw.githubusercontent.com/ErugoOSS/Erugo/main/public/icon.svg",
+      "license": "MIT",
+      "description": "A self-hosted file-transfer platform with built-in OAuth2/OIDC login for generic OIDC providers, plus optional automatic account creation for users signing in through a trusted provider.",
+      "documentation_url": "https://erugo.app/docs/reference/configuration#auth-providers"
+    },
+    {
       "name": "CryptPad",
       "category": "File sync & collaboration",
       "project_url": "https://cryptpad.org/",
