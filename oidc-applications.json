@@ -1119,6 +1119,15 @@
       "license": "MIT",
       "description": "A self-hosted game distribution platform for LAN parties and private networks whose server can delegate sign-in to external OpenID Connect (or OAuth2) identity providers alongside its built-in local accounts.",
       "documentation_url": "https://docs.lancommander.app/Server/Settings/Authentication/Overview"
+    },
+    {
+      "name": "WYGIWYH",
+      "category": "Personal finance & household management",
+      "project_url": "https://github.com/eitchtee/WYGIWYH",
+      "logo_url": "https://raw.githubusercontent.com/eitchtee/WYGIWYH/main/.github/img/logo.svg",
+      "license": "AGPL-3.0",
+      "description": "A no-budget, multi-currency personal finance tracker with a built-in dollar-cost averaging tracker whose login can be delegated to an external OpenID Connect provider via django-allauth, configured through environment variables.",
+      "documentation_url": "https://github.com/eitchtee/WYGIWYH#oidc-configuration"
     }
   ]
 }
