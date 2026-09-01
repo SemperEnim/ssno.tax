@@ -971,6 +971,65 @@
       "license": "MIT",
       "description": "A self-hosted monitoring platform for Proxmox, Docker, Kubernetes, and TrueNAS with OIDC single sign-on, group and domain restrictions, and claim mapping.",
       "documentation_url": "https://github.com/rcourtman/Pulse/blob/main/docs/OIDC.md"
+    },
+    {
+      "name": "Audiobookshelf",
+      "category": "Audiobooks & podcasts",
+      "project_url": "https://www.audiobookshelf.org",
+      "github_url": "https://github.com/advplyr/audiobookshelf",
+      "logo_url": "https://cdn.simpleicons.org/audiobookshelf",
+      "license": "GPL-3.0",
+      "description": "A self-hosted audiobook and podcast server with built-in OpenID Connect authentication, auto-registration, claim-based permissions, and single logout.",
+      "documentation_url": "https://audiobookshelf.org/docs/documentation/server-management/oidc-authentication"
+    },
+    {
+      "name": "Gotify",
+      "category": "Messaging & federation",
+      "project_url": "https://gotify.net",
+      "github_url": "https://github.com/gotify/server",
+      "logo_url": "https://raw.githubusercontent.com/gotify/logo/master/gotify-logo.svg",
+      "license": "MIT",
+      "description": "A self-hosted real-time push message server (v3.0 and up) with OIDC login, auto-registration, and group-based admin mapping; the identity provider must support PKCE.",
+      "documentation_url": "https://gotify.net/docs/oidc"
+    },
+    {
+      "name": "KitchenOwl",
+      "category": "Recipe management",
+      "project_url": "https://kitchenowl.org/",
+      "github_url": "https://github.com/TomBursch/kitchenowl",
+      "logo_url": "https://raw.githubusercontent.com/TomBursch/kitchenowl/main/docs/docs/img/icon.png",
+      "license": "AGPL-3.0",
+      "description": "A self-hosted grocery list and recipe manager whose backend accepts a generic OpenID Connect provider with account linking and mobile app redirect support.",
+      "documentation_url": "https://docs.kitchenowl.org/latest/self-hosting/oidc/"
+    },
+    {
+      "name": "Ovumcy",
+      "category": "Health & wellbeing",
+      "project_url": "https://ovumcy.com",
+      "github_url": "https://github.com/ovumcy/ovumcy-web",
+      "license": "AGPL-3.0",
+      "description": "A privacy-first, self-hosted menstrual cycle tracker with optional OIDC sign-in in hybrid or SSO-only mode, guarded owner auto-provision, and provider logout.",
+      "documentation_url": "https://github.com/ovumcy/ovumcy-web/blob/main/docs/oidc.md"
+    },
+    {
+      "name": "OxiCloud",
+      "category": "File sync & collaboration",
+      "project_url": "https://atalayalabs.github.io/OxiCloud/",
+      "github_url": "https://github.com/AtalayaLabs/OxiCloud",
+      "logo_url": "https://raw.githubusercontent.com/AtalayaLabs/OxiCloud/main/docs/public/logo.svg",
+      "license": "MIT",
+      "description": "A lightweight self-hosted cloud storage built in Rust with WebDAV, CalDAV, and CardDAV plus built-in OIDC single sign-on.",
+      "documentation_url": "https://github.com/AtalayaLabs/OxiCloud/blob/main/docs/config/oidc.md"
+    },
+    {
+      "name": "Trip",
+      "category": "Travel & maps",
+      "project_url": "https://itskovacs.github.io/trip/",
+      "github_url": "https://github.com/itskovacs/trip",
+      "logo_url": "https://raw.githubusercontent.com/itskovacs/trip/main/docs/static/img/TRIP_192.png",
+      "license": "MIT",
+      "description": "A minimalist self-hosted POI map tracker and trip planner with optional OIDC authentication against any discovery-capable identity provider.",
+      "documentation_url": "https://itskovacs.github.io/trip/docs/getting-started/configuration"
     }
   ]
 }
