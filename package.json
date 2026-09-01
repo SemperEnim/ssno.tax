@@ -2,6 +2,7 @@
   "name": "oidc-applications-catalog",
   "private": true,
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "build": "node scripts/build.mjs",
     "dev": "npm run build && vite --config vite.config.mjs",
